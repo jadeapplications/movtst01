@@ -6,9 +6,9 @@ Scratch Program in which the Jade Robot moves according to the modulo 4 of a cou
 ### Project Information
 ```
 Type              : Scratch
-Version           : 01.0
+Version           : 1.0
 Author            : myke predko
-Firmware          : 41
+Firmware          : 42
 ```
 
 ### Release History:
